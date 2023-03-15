@@ -8,3 +8,8 @@
 	url = https://github.com/jipingw/degnorm
 	shallow = true
 	registered = true
+[submodule "NuPoP"]
+	path = NuPoP
+	url = https://github.com/jipingw/nupop
+	shallow = true
+	registered = true
