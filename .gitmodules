@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DegNorm"]
 	path = DegNorm
 	url = https://github.com/jipingw/degnorm
-	shallow = true
-	registered = true
 [submodule "NuPoP"]
 	path = NuPoP
 	url = https://github.com/jipingw/nupop
-	shallow = true
-	registered = true
 [submodule "RiboDiPA"]
 	path = RiboDiPA
 	url = https://git.bioconductor.org/packages/RiboDiPA
-	shallow = true
-	registered = true
 [submodule "SPECIES"]
 	path = SPECIES
 	url = https://github.com/cran/SPECIES
-	shallow = true
-	registered = true
