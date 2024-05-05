@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "DegNorm"]
-	path = DegNorm
-	url = https://github.com/jipingw/degnorm
-[submodule "NuPoP"]
-	path = NuPoP
-	url = https://github.com/jipingw/nupop
-[submodule "RiboDiPA"]
-	path = RiboDiPA
-	url = https://git.bioconductor.org/packages/RiboDiPA
 [submodule "SPECIES"]
 	path = SPECIES
 	url = https://github.com/cran/SPECIES
